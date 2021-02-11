@@ -1,4 +1,4 @@
-package com.db.estudo;
+package com.db.estudo.util;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
